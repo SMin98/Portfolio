@@ -15,11 +15,10 @@
 
 [구글 플레이 링크](https://play.google.com/store/apps/details?id=com.liams.datecalendar)
 
-[인원]   
-1명
-
-[내 역할]
-- UI 및 기능 구현
+[기능]
+- Calendar View Libarary
+- DotDecorator
+- SharedPreference
 
 [comment]    
 내가 쓰려고 만들기 시작
@@ -35,13 +34,9 @@ Sticky Note
 
 [구글 플레이 링크](https://play.google.com/store/apps/details?id=com.SMin.noteapp)
 
-[인원]   
-1명
-
-[내 역할]
+[기능]
 - MVVM + LiveData + DataBinding
 - RxJava + Room
-- UI 및 기능 구현
 
 [comment]    
 노트앱 클론 코딩 -> Rx + MVVM 변형
@@ -58,11 +53,9 @@ Bulls_and_Cows
 
 [구글 플레이 링크](https://play.google.com/store/apps/details?id=com.Liams.bulls_and_cows)
 
-[인원]   
-1명
-
-[내 역할]
-- UI 및 기능 구현
+[기능]
+- 세상 간단하게 만들어본 앱
+- 숫자야구 알고리즘
 
 [comment]   
 첫 출시 앱
