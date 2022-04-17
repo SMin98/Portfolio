@@ -17,6 +17,7 @@ MBTI별 궁합정보와 각각의 MBTI 특징을 볼수있는 App
 - Firebase FireStore
 - Coroutine
 - mvvm 패턴 적용
+- DI - Koin
 
 [comment]    
 기능 수정 및 다듬기 후 구글스토어 출시 예정
