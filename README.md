@@ -12,15 +12,14 @@ MBTI 궁합
 -------------  
 [프로젝트 내용]   
 MBTI별 궁합정보와 각각의 MBTI 특징을 볼수있는 App
+[구글 플레이 링크](https://play.google.com/store/apps/details?id=com.smin.mbti_chemistry)
 
-[기능]
+[사용 기술]
 - Firebase FireStore
 - Coroutine
 - mvvm 패턴 적용
 - DI - Koin
 
-[comment]    
-기능 수정 및 다듬기 후 구글스토어 출시 예정
 
 <img src="https://user-images.githubusercontent.com/62275738/163723352-1f7a9fd3-3e67-4418-8691-d81dcb321384.png" width="200" height="400"/> <img src="https://user-images.githubusercontent.com/62275738/163723356-b51fc0c4-ba78-45bc-941d-75e756fa026f.png" width="200" height="400"/> <img src="https://user-images.githubusercontent.com/62275738/163723360-a154b883-7b8c-4dfb-99d3-e5e8ea28d592.png" width="200" height="400"/> 
 
@@ -33,13 +32,13 @@ MBTI별 궁합정보와 각각의 MBTI 특징을 볼수있는 App
 
 [구글 플레이 링크](https://play.google.com/store/apps/details?id=com.liams.datecalendar)
 
-[기능]
+[사용 기술]
 - Calendar View Libarary
 - DotDecorator
 - SharedPreference
 
 [comment]    
-내가 쓰려고 만들기 시작
+내가 쓰려고 만들기 시작했다.
 
 <img src="https://user-images.githubusercontent.com/62275738/161585791-4300d057-0d60-4c7b-9ca6-ceee026f7cdb.png" width="200" height="400"/> <img src="https://user-images.githubusercontent.com/62275738/161585864-6258e3c0-2915-47c3-a448-0f2cb25f7c3d.png" width="200" height="400"/> <img src="https://user-images.githubusercontent.com/62275738/161586013-88c80025-97f7-4d91-8369-c791d729198f.png" width="200" height="400"/> 
 
@@ -52,7 +51,7 @@ Sticky Note
 
 [구글 플레이 링크](https://play.google.com/store/apps/details?id=com.SMin.noteapp)
 
-[기능]
+[사용 기술]
 - MVVM + LiveData + DataBinding
 - RxJava + Room
 
