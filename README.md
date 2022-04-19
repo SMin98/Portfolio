@@ -11,8 +11,10 @@
 MBTI 궁합
 -------------  
 [프로젝트 내용]   
-MBTI별 궁합정보와 각각의 MBTI 특징을 볼수있는 App
+MBTI별 궁합정보와 각각의 MBTI 특징을 볼수있는 App   
+   
 [구글 플레이 링크](https://play.google.com/store/apps/details?id=com.smin.mbti_chemistry)
+  
 
 [사용 기술]
 - Firebase FireStore
