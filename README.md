@@ -7,21 +7,20 @@
 [링크](https://github.com/SMin98/Toy-Project)   
 
 
-
 MBTI 궁합
 -------------  
 [프로젝트 내용]   
-MBTI별 궁합정보와 각각의 MBTI 특징을 볼수있는 App   
+MBTI별 궁합정보와 각각의 MBTI 특징을 볼수있는 App  
    
-[구글 플레이 링크](https://play.google.com/store/apps/details?id=com.smin.mbti_chemistry)
+[구글 플레이 링크](https://play.google.com/store/apps/details?id=com.smin.mbti_chemistry)   
+[깃허브 링크](https://github.com/SMin98/MBTI)   
   
 
 [사용 기술]
 - Firebase FireStore
 - Coroutine
-- mvvm 패턴 적용
+- mvvm 패턴, State 모델링
 - DI - Koin
-
 
 <img src="https://user-images.githubusercontent.com/62275738/163723352-1f7a9fd3-3e67-4418-8691-d81dcb321384.png" width="200" height="400"/> <img src="https://user-images.githubusercontent.com/62275738/163723356-b51fc0c4-ba78-45bc-941d-75e756fa026f.png" width="200" height="400"/> <img src="https://user-images.githubusercontent.com/62275738/163723360-a154b883-7b8c-4dfb-99d3-e5e8ea28d592.png" width="200" height="400"/> 
 
